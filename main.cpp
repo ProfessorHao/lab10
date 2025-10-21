@@ -1,6 +1,6 @@
 /**
  * @file main.cpp
- * @author Ian Codding II
+ * @author Ian Codding II & Roman Salazar
  * @brief 
  * @version 0.1
  * @date 2025-10-21
