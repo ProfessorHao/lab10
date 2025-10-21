@@ -1,11 +1,11 @@
-#include "fun.h"
+// #include "fun.h"
 
 
-int main()
-{
+// int main()
+// {
 
-    lookatMe();
+//     lookatMe();
 
 
 
-}
+// }
